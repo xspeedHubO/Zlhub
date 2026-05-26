@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://lunzobf.netlify.app/api/raw/4b34e5e5-314d-4362-9549-191cdd3b4833"))()
+getgenv().SCRIPT_ID="g3FfALdyl4MKzSFw";loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/5bcf3fe96a7f433777e8ee45b6aa0bd5.lua"))()
